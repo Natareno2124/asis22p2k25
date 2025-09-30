@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using CapaVista_Seguridad;
+using Capa_Vista_Navegador;
 
 namespace CapaVista_Menu
 {
@@ -17,6 +18,7 @@ namespace CapaVista_Menu
         public MenuGeneral()
         {
             InitializeComponent();
+            
         }
 
         private void salirToolStripMenuItem_Click(object sender, EventArgs e)
@@ -30,6 +32,19 @@ namespace CapaVista_Menu
         {
             CapaVista_Seguridad.frmBitacora bitacora = new CapaVista_Seguridad.frmBitacora();
             bitacora.ShowDialog();
+        }
+
+        private void catalogosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Mant_1 frm = new Mant_1();
+            frm.Show();
+        }
+
+
+        private void Navegador1_ImprimirClick(object sender, EventArgs e)
+        {
+            // Aquí sí puedes abrir tu formulario de Reporte
+            
         }
     }
 }
