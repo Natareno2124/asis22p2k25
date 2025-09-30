@@ -41,10 +41,10 @@ namespace CapaVista_Menu
         }
 
 
-        private void Navegador1_ImprimirClick(object sender, EventArgs e)
+        private void identificacionAlumnoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            // Aquí sí puedes abrir tu formulario de Reporte
-            
+            Identificacion frm = new Identificacion();
+            frm.Show();
         }
     }
 }
