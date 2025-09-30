@@ -1,0 +1,8 @@
+create database Mantenimiento1;
+use Mantenimiento1;
+
+CREATE TABLE `TIPO_PUESTO` (
+  `ID_TIPO_PUESTO` int NOT NULL,
+  PRIMARY KEY (`ID_TIPO_PUESTO`),
+  `SALARIO` double
+) ;
