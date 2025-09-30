@@ -1,0 +1,48 @@
+kevin@KevinN MINGW64 /c/Serie_4_Parcial_2/asis22p2k25 (Rama_Mantenimiento_1_0901-21-635)
+$ git log
+commit 04deb4860bf4e8568f702a9d85a2dce7424ae2d9 (HEAD -> Rama_Mantenimiento_1_0901-21-635, origin/Rama_Mantenimiento_1_0901-21-635)
+Author: Natareno2124 <kevinnajera24@gmail.com>
+Date:   Tue Sep 30 09:34:47 2025 -0600
+
+    Agregando Identificacion
+
+commit 8d00dc8b419f194b7e6aa983646dc1369415cd4e
+Author: Natareno2124 <kevinnajera24@gmail.com>
+Date:   Tue Sep 30 09:25:32 2025 -0600
+
+    Agregando Mantenimiento
+
+commit beb86eb4abe62ca917baad335dd2aae254724ef3 (origin/main, origin/HEAD, main)
+Merge: a43d48e d1d60f9
+Author: daguilae <daguilae@hotmail.com>
+Date:   Tue Sep 30 05:57:38 2025 -0600
+
+    Merge pull request #1 from edelaguila/main
+
+    actualizando repositorio examen
+
+commit d1d60f93837f1293a3eca16e9e141f6c5bd781d9
+:
+commit 04deb4860bf4e8568f702a9d85a2dce7424ae2d9 (HEAD -> Rama_Mantenimiento_1_0901-21-635, origin/Rama_Mantenimiento_1_0901-21-635)
+Author: Natareno2124 <kevinnajera24@gmail.com>
+Date:   Tue Sep 30 09:34:47 2025 -0600
+
+    Agregando Identificacion
+
+commit 8d00dc8b419f194b7e6aa983646dc1369415cd4e
+Author: Natareno2124 <kevinnajera24@gmail.com>
+Date:   Tue Sep 30 09:25:32 2025 -0600
+
+    Agregando Mantenimiento
+
+commit beb86eb4abe62ca917baad335dd2aae254724ef3 (origin/main, origin/HEAD, main)
+Merge: a43d48e d1d60f9
+Author: daguilae <daguilae@hotmail.com>
+Date:   Tue Sep 30 05:57:38 2025 -0600
+
+    Merge pull request #1 from edelaguila/main
+
+    actualizando repositorio examen
+
+commit d1d60f93837f1293a3eca16e9e141f6c5bd781d9
+:
